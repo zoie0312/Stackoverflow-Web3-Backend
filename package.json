@@ -1,0 +1,18 @@
+{
+  "name": "stackoverflow-web3-backend",
+  "version": "1.0.0",
+  "description": "Firebase as BE for Stackoverflow-Web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.13.0",
+    "firebase-admin": "^11.2.0"
+  }
+}

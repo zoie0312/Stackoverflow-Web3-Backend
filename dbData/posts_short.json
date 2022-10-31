@@ -1,0 +1,102 @@
+[
+    {
+      "id": "ae27de09-adf6-4aac-914b-abe89b5da371",
+      "answer_count": 0,
+      "comment_count": 0,
+      "user_id": "caa77735-028e-49c7-a52b-9f0eb4d9b40f",
+      "views": 3,
+      "title": "Be specific and imagine you’re asking a question to another person",
+      "body": "<p>&nbsp;Be specific and imagine you’re asking a question to another person&nbsp;</p>",
+      "tags": [
+        {
+          "id": "dc006d67-4cb6-4b5b-9782-6dc3eee5ba12",
+          "tagname": "ajax",
+          "posttag": {
+            "createdAt": "2022-10-27T15:09:51.000Z",
+            "updatedAt": "2022-10-27T15:09:51.000Z",
+            "post_id": "ae27de09-adf6-4aac-914b-abe89b5da371",
+            "tag_id": "dc006d67-4cb6-4b5b-9782-6dc3eee5ba12"
+          }
+        }
+      ],
+      "username": "kindRice7525",
+      "gravatar": "https://secure.gravatar.com/avatar/92?s=164&d=identicon",
+      "created_at": "2022-10-27T15:09:51.000Z",
+      "updated_at": "2022-10-29T17:01:39.000Z"
+    },
+    {
+      "id": "ccfc44bd-8727-4236-8fce-d4d9ea24fa1d",
+      "answer_count": 1,
+      "comment_count": 1,
+      "user_id": "3a8b6519-6173-4d82-9d06-f0fb2a58788b",
+      "views": 18,
+      "title": "What is the full form of HTML?",
+      "body": "<p>What is the full form of HTML?</p>\n<p>What is the full form of HTML?</p>",
+      "tags": [
+        {
+          "id": "92799983-deb7-4532-9efd-27903ea6ff80",
+          "tagname": "html",
+          "posttag": {
+            "createdAt": "2022-10-20T16:23:13.000Z",
+            "updatedAt": "2022-10-20T16:23:13.000Z",
+            "post_id": "ccfc44bd-8727-4236-8fce-d4d9ea24fa1d",
+            "tag_id": "92799983-deb7-4532-9efd-27903ea6ff80"
+          }
+        }
+      ],
+      "username": "sajidpahat786@gmail.com",
+      "gravatar": "https://secure.gravatar.com/avatar/88?s=164&d=identicon",
+      "created_at": "2022-10-20T16:23:13.000Z",
+      "updated_at": "2022-10-28T20:55:01.000Z"
+    },
+    {
+      "id": "c87bb8bb-e2c0-41ac-92b4-ccb7a052325e",
+      "answer_count": 0,
+      "comment_count": 0,
+      "user_id": "ebacf7ae-9ab7-49fb-aec2-8c1787fbf0f9",
+      "views": 3,
+      "title": "You didi something good",
+      "body": "<p>we take a walk in you site</p>\n<p><br></p>",
+      "tags": [
+        {
+          "id": "31ad4468-52d8-48e9-bc4e-0c564ec30fca",
+          "tagname": "React",
+          "posttag": {
+            "createdAt": "2022-10-20T11:14:56.000Z",
+            "updatedAt": "2022-10-20T11:14:56.000Z",
+            "post_id": "c87bb8bb-e2c0-41ac-92b4-ccb7a052325e",
+            "tag_id": "31ad4468-52d8-48e9-bc4e-0c564ec30fca"
+          }
+        }
+      ],
+      "username": "johnbill",
+      "gravatar": "https://secure.gravatar.com/avatar/85?s=164&d=identicon",
+      "created_at": "2022-10-20T11:14:56.000Z",
+      "updated_at": "2022-10-20T14:32:58.000Z"
+    },
+    {
+      "id": "fd5fcf49-9a19-47fe-8c43-b8143ee59a5d",
+      "answer_count": 0,
+      "comment_count": 0,
+      "user_id": "1f7c6498-546b-451e-b240-8a4b68bf4f58",
+      "views": 4,
+      "title": "Testing to see if this works for meeee",
+      "body": "<p>Yeah basically that's it</p>",
+      "tags": [
+        {
+          "id": "accb9f5c-fb77-4029-8150-209fb5f6c076",
+          "tagname": "trial",
+          "posttag": {
+            "createdAt": "2022-10-19T07:29:48.000Z",
+            "updatedAt": "2022-10-19T07:29:48.000Z",
+            "post_id": "fd5fcf49-9a19-47fe-8c43-b8143ee59a5d",
+            "tag_id": "accb9f5c-fb77-4029-8150-209fb5f6c076"
+          }
+        }
+      ],
+      "username": "Leilani",
+      "gravatar": "https://secure.gravatar.com/avatar/38?s=164&d=identicon",
+      "created_at": "2022-10-19T07:29:48.000Z",
+      "updated_at": "2022-10-20T08:50:28.000Z"
+    }
+]

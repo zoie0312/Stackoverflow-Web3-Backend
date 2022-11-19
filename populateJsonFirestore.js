@@ -19,13 +19,15 @@ const serviceAccount = require("./stackunderflow-serviceAccount.json");
 // });
 
 //admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
+
 //working with firestore emulator, need to `export FIRESTORE_EMULATOR_HOST="localhost:8080"`
 admin.initializeApp({ projectId: "stackunderflow-46236" });
 
 /**
  * Tutorial on how to upload json data to firestore
  * Using JavaScript
- * RUN: node json-to-firestore/populateJsonFirestore.js [RELATIVE PATH TO FILE] [FIRESTORE METHOD] [COLLECTION NAME]
+ * RUN: node populateJsonFirestore.js [RELATIVE PATH TO FILE] [FIRESTORE METHOD] [COLLECTION NAME]
+ * ex: node populateJsonFirestore.js ./dbData/answers.json add answers
  */
 class PopulateJsonFireStore {
     // class constructor
@@ -149,6 +151,3 @@ class PopulateJsonFireStore {
 // Run populate function
 const populateFireStore = new PopulateJsonFireStore();
 populateFireStore.populate();
-
-// command to run
-//node json-to-firestore/populateJsonFirestore.js ./json-to-firestore/data.json add demo-users
